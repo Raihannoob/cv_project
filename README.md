@@ -13,7 +13,7 @@
 
 ## Prerequisites
 
-- node >= 6.0.0
+- node >= 14.0.0
 - npm >= 3.0.0
 
 ## Install
